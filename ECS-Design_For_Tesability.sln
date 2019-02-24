@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECS - Design_For_Tesability", "ECS - Design_For_Tesability\ECS - Design_For_Tesability.csproj", "{376820B2-6408-4157-9548-5AA733C164C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECS-Design_For_Tesability", "ECS - Design_For_Tesability\ECS-Design_For_Tesability.csproj", "{376820B2-6408-4157-9548-5AA733C164C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECS - Design_For_Tesability.Test.Unit", "ECS - Design_For_Tesability.Test.Unit\ECS - Design_For_Tesability.Test.Unit.csproj", "{53F2AF81-A1D0-4329-A6FD-26B9C519AE30}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECS-Design_For_Tesability.Test.Unit", "ECS - Design_For_Tesability.Test.Unit\ECS-Design_For_Tesability.Test.Unit.csproj", "{53F2AF81-A1D0-4329-A6FD-26B9C519AE30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

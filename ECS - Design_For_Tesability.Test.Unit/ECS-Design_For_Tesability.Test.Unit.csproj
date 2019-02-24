@@ -53,9 +53,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ECS - Design_For_Tesability\ECS - Design_For_Tesability.csproj">
+    <ProjectReference Include="..\ECS - Design_For_Tesability\ECS-Design_For_Tesability.csproj">
       <Project>{376820b2-6408-4157-9548-5aa733c164c7}</Project>
-      <Name>ECS - Design_For_Tesability</Name>
+      <Name>ECS-Design_For_Tesability</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
